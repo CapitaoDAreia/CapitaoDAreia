@@ -13,8 +13,8 @@
 
 <div align="center" >
   <a href="https://github.com/CapitaoDAreia">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitaoDAreia&theme=dark&layout=compact" > 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CapitaoDAreia&theme=dark&show_icons=true">
+  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/top-langs/?username=CapitaoDAreia&theme=dark&layout=compact" > 
+  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CapitaoDAreia&theme=dark&show_icons=true">
   </a>
 </div>
 
